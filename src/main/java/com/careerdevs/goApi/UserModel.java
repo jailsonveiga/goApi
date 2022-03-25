@@ -1,4 +1,4 @@
 package com.careerdevs.goApi;
 
-public class GoModel {
+public class UserModel {
 }
